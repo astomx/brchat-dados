@@ -7,3 +7,4 @@ festa junina: não
 dia das crianças: não
 halloween: não
 natal: não
+aniversário: não
