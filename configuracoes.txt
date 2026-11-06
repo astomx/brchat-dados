@@ -1,0 +1,9 @@
+beta: sim
+ano novo: não
+carnaval: não
+páscoa: não
+dia dos namorados: não
+festa junina: não
+dia das crianças: não
+halloween: não
+natal: não
